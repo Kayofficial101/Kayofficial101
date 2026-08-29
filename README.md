@@ -13,6 +13,8 @@ I am currently a Founder’s Office Associate at Capiens AI. My background also 
 | **E-commerce Sales Performance** | Built a reproducible 10,800-row Excel, Python and SQL case study with formula-driven reporting, independent QA and written recommendations. The dataset is clearly labeled synthetic. | [Case study](https://github.com/Kayofficial101/ecommerce-sales-analysis) · [Excel workbook](https://github.com/Kayofficial101/ecommerce-sales-analysis/raw/main/excel/ecommerce-sales-performance.xlsx) |
 | **Edu-Hub for DU BMS** | Built and deployed a semester-wise resource hub for notes, past papers, video links and revision paths. | [Live product](https://dubmshub.in) |
 | **Anshaya** | Built and operate a Vedic astrology web product with birth-chart, timing, relationship and numerology workflows. | [Live product](https://anshaya.com) |
+| **Telecom Customer Churn** | Built a reproducible 7,043-row Python and SQL case study that turns churn signals into a retention workflow. | [Case study](https://github.com/Kayofficial101/customer-churn-analysis) |
+| **HR Attrition Dashboard** | Built a synthetic 1,470-employee analysis with a Python-generated dashboard, SQL risk queue and written recommendations. | [Case study](https://github.com/Kayofficial101/hr-analytics-dashboard) |
 | **Maths Mitre** | Delivered the web presence and growth foundation for a 1-to-1 mathematics tutoring service. | [Live site](https://mathsmitre.com) |
 | **SQL Business Analytics** | Wrote practical business queries covering revenue trends, customer value, cohorts and moving averages. | [Repository](https://github.com/Kayofficial101/sql-business-queries) |
 
