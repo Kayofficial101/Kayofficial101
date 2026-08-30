@@ -8,14 +8,14 @@ I am a Founder’s Office Associate at Capiens AI and previously worked in healt
 
 ## Selected work
 
-| Project | Question | Work included |
+| Project | What the project does | Main files and tools |
 |---|---|---|
-| **[Makhana snack launch GTM](https://github.com/Kayofficial101/makhana-launch-gtm)** | What must be proved before a makhana brand moves from pilot to quick-commerce scale? | Market and competitor research, old-model audit, unit economics, consumer tests, launch gates, Excel model, PowerPoint and PDF |
-| **[Blinkit growth economics](https://github.com/Kayofficial101/blinkit-growth-economics)** | After adjusted EBITDA break-even, can store growth earn a good return on capex and working capital? | Filing-based quarterly model, accounting bridge, store return case, Python checks and Excel dashboard |
-| **[FMCG inventory control tower](https://github.com/Kayofficial101/fmcg-demand-inventory-control-tower)** | Which SKUs need an order and where should a planner review excess stock? | Editable Excel model, ABC-XYZ policy, Python checks and SQL queues |
-| **[E-commerce sales performance](https://github.com/Kayofficial101/ecommerce-sales-analysis)** | Where is revenue growing, what is eroding it and what should be checked next? | Excel dashboard, Python reconciliation, SQL analysis and 10,800 transactions |
-| **[Coca-Cola India growth case](https://github.com/Kayofficial101/coca-cola-india-consumer-growth-case)** | How could a large cultural occasion lead to repeat purchases? | Public-source research, test design, PowerPoint deck and PDF |
-| **[Telecom churn analysis](https://github.com/Kayofficial101/customer-churn-analysis)** | Which customer groups should a retention team investigate first? | Python analysis, SQL queue and revenue-at-risk view |
+| **[Makhana snack launch GTM](https://github.com/Kayofficial101/makhana-launch-gtm)** | Builds a 12-week Delhi NCR launch plan for a new makhana snack, including what to test before expanding on quick commerce. | Market research, consumer-test plan, unit economics, Excel model, PowerPoint and PDF |
+| **[Blinkit growth economics](https://github.com/Kayofficial101/blinkit-growth-economics)** | Uses Eternal's filings to check whether Blinkit's store growth is improving profitability and what a mature store could earn on its capital. | Quarterly analysis, store-return model, Python checks and Excel dashboard |
+| **[FMCG inventory control tower](https://github.com/Kayofficial101/fmcg-demand-inventory-control-tower)** | Turns demand and stock data into two planner lists: what to order now and what excess stock needs review. | Excel model, ABC-XYZ inventory policy, Python checks and SQL queues |
+| **[E-commerce sales performance](https://github.com/Kayofficial101/ecommerce-sales-analysis)** | Examines 10,800 orders to find revenue patterns, return problems and periods that need inventory or campaign follow-up. | Excel dashboard, Python reconciliation, SQL analysis and source data |
+| **[Coca-Cola India growth case](https://github.com/Kayofficial101/coca-cola-india-consumer-growth-case)** | Designs an outlet test for turning trial during a major Indian occasion into a measurable second purchase. | Public research, test design, PowerPoint deck and PDF |
+| **[Telecom churn analysis](https://github.com/Kayofficial101/customer-churn-analysis)** | Finds which customer groups show the highest churn and converts the analysis into a practical retention worklist. | Python analysis, SQL queue and revenue-at-risk view |
 
 ## More work
 
