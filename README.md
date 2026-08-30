@@ -1,41 +1,32 @@
 # Keshav Kapoor
 
-I work across business analysis, growth, SEO, operations and strategy. I enjoy figuring out messy problems, whether that means digging through data, auditing a product, building a model, or turning research into a clear plan.
+I work across business analysis, growth, SEO and operations. Recent projects include an Excel sales model, a live SEO audit, a consumer-growth case and an inventory control tower.
 
-I am currently a Founder’s Office Associate at Capiens AI. Earlier, I worked in healthcare analytics at EY-GDS. I studied business management at the University of Delhi and software development at BITS Pilani.
+I am a Founder’s Office Associate at Capiens AI and previously worked in healthcare analytics at EY-GDS. I studied business management at the University of Delhi and software development at BITS Pilani.
 
 [LinkedIn](https://www.linkedin.com/in/keshav-kapoor-kk108/) · Delhi NCR, India
 
 ## Selected work
 
-| Project | Business question | Included |
+| Project | Question | Work included |
 |---|---|---|
-| **[E-commerce sales performance](https://github.com/Kayofficial101/ecommerce-sales-analysis)** | Where is revenue growing, which categories and regions need attention, and what should management do next? | Formula-driven Excel workbook, Python analysis, SQL queries, 10,800-row synthetic dataset and QA checks |
-| **[DU BMS SEO and AI-search audit](https://github.com/Kayofficial101/du-bms-seo-aeo-growth-audit)** | What is stopping a live education product from earning more search visibility and becoming easier to cite in AI answers? | Live 42-page crawl, issue backlog, answer-engine map, content brief and measurement plan |
-| **[Coca-Cola India consumer growth case](https://github.com/Kayofficial101/coca-cola-india-consumer-growth-case)** | How can a brand turn a large cultural occasion into repeat consumption without confusing reach with retention? | Source ledger, strategic argument, experiment design, PowerPoint deck and PDF |
-| **[FMCG inventory control tower](https://github.com/Kayofficial101/fmcg-demand-inventory-control-tower)** | Which SKUs need replenishment, where is service at risk, and where might working capital be released? | Editable Excel model, Python reconciliation, SQL decision queues, ABC-XYZ policy and 24 months of synthetic demand |
-| **[Telecom customer churn](https://github.com/Kayofficial101/customer-churn-analysis)** | Which customers are most at risk and how should a retention team prioritize action? | Reproducible Python and SQL analysis, 7,043-row dataset, risk segments and retention workflow |
-| **[Edu-Hub for DU BMS](https://dubmshub.in)** | How should scattered course material be organised so students can find the right resource quickly? | Live semester-wise product for notes, papers, videos and revision paths |
+| **[E-commerce sales performance](https://github.com/Kayofficial101/ecommerce-sales-analysis)** | Where is revenue growing, what is eroding it and what should be checked next? | Excel dashboard, Python reconciliation, SQL analysis and 10,800 transactions |
+| **[DU BMS search audit](https://github.com/Kayofficial101/du-bms-seo-aeo-growth-audit)** | Which changes would make a live student product easier to find and use? | 42-page crawl, prioritized backlog, content brief and measurement plan |
+| **[Coca-Cola India growth case](https://github.com/Kayofficial101/coca-cola-india-consumer-growth-case)** | How could a large cultural occasion lead to repeat purchases? | Public-source research, test design, PowerPoint deck and PDF |
+| **[FMCG inventory control tower](https://github.com/Kayofficial101/fmcg-demand-inventory-control-tower)** | Which SKUs need an order and where should a planner review excess stock? | Editable Excel model, ABC-XYZ policy, Python checks and SQL queues |
+| **[Telecom churn analysis](https://github.com/Kayofficial101/customer-churn-analysis)** | Which customer groups should a retention team investigate first? | Python analysis, SQL queue and revenue-at-risk view |
+| **[Edu-Hub for DU BMS](https://dubmshub.in)** | How can students reach the right semester resource quickly? | Live product covering notes, papers, videos and revision paths |
 
-## How I work
+## More work
 
-- I begin with the decision, then choose the analysis.
-- I keep assumptions, sources and limitations visible.
-- I can move from research and strategy into Excel, SQL, Python, content or a shipped web product.
-- I build an operating next step, such as a reorder queue, retention workflow, test plan or prioritised backlog.
+- **[HR attrition analysis](https://github.com/Kayofficial101/hr-analytics-dashboard):** overtime, role and attrition patterns with a manager follow-up list.
+- **[SQL business queries](https://github.com/Kayofficial101/sql-business-queries):** eight MySQL patterns for revenue, cohorts, customer value and reporting checks.
 
-## More analysis
-
-- **[HR attrition analysis](https://github.com/Kayofficial101/hr-analytics-dashboard):** a synthetic 1,470-employee case with a dashboard, SQL risk queue and manager actions.
-- **[SQL business queries](https://github.com/Kayofficial101/sql-business-queries):** practical queries for revenue, customer value, cohorts and moving averages.
-
-## Other products I have shipped
+## Other products
 
 - **[Anshaya](https://anshaya.com):** a Vedic astrology product with chart, timing, relationship and numerology workflows.
-- **[Maths Mitre](https://mathsmitre.com):** the web presence and growth foundation for a one-to-one mathematics tutoring service.
+- **[Maths Mitre](https://mathsmitre.com):** the website and growth foundation for a one-to-one mathematics tutoring service.
 
-## Toolkit
+## Tools
 
 `Excel` `Power BI` `SQL` `Python` `Next.js` `Vercel` `Supabase` `Google Search Console` `Ahrefs` `HubSpot`
-
-The [e-commerce analysis](https://github.com/Kayofficial101/ecommerce-sales-analysis) is the broadest example. The [SEO and AI-search audit](https://github.com/Kayofficial101/du-bms-seo-aeo-growth-audit) shows how I approach a live product.
