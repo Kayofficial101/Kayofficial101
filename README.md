@@ -2,7 +2,7 @@
 
 I work across business analysis, growth, SEO and operations. Recent projects include an Excel sales model, a live SEO audit, a consumer-growth case and an inventory control tower.
 
-I am a Founder’s Office Associate at Capiens AI and previously worked in healthcare analytics at EY-GDS. I studied business management at the University of Delhi and software development at BITS Pilani.
+I am a Founder’s Office Associate at Capiens AI. I studied business management at the University of Delhi and software development at BITS Pilani.
 
 [LinkedIn](https://www.linkedin.com/in/keshav-kapoor-kk108/) · Delhi NCR, India
 
