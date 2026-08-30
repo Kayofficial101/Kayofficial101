@@ -1,37 +1,41 @@
-# Keshav Kapoor
+<p align="center">
+  <img src="profile-banner.svg" alt="Keshav Kapoor, strategy, growth, analytics and marketing operations" width="100%">
+</p>
 
-I work across business analysis, growth strategy, marketing and operations. My recent projects range from a stage-gated FMCG launch and quick-commerce economics to Excel models, consumer research and operating dashboards.
+# Hi, I'm Keshav
 
-I am a Founder’s Office Associate at Capiens AI and previously worked in healthcare analytics at EY-GDS. I studied business management at the University of Delhi and software development at BITS Pilani.
+I like taking a messy business problem and turning it into a clear plan, model or workflow that people can use.
+
+I currently work in the Founder's Office at Capiens AI, where my work covers strategy, research, client coordination and digital growth. Before this, I worked in analytics at EY-GDS and in digital marketing at Tech Curve AI and Innovation.
+
+My projects sit across business analysis, growth, marketing operations, SEO and operations. I especially enjoy work where research has to become a decision, and the decision has to become something practical.
 
 [LinkedIn](https://www.linkedin.com/in/keshav-kapoor-kk108/) · Delhi NCR, India
 
-## Selected work
+## Skills and tools
 
-| Project | What the project does | Main files and tools |
+`Excel` `Power BI` `SQL` `Python` `Google Search Console` `Ahrefs` `HubSpot` `PowerPoint` `Next.js` `Vercel` `Supabase` `Canva` `Figma`
+
+## Projects Index
+
+| Project | About the project | Tools used |
 |---|---|---|
-| **[Makhana snack launch GTM](https://github.com/Kayofficial101/makhana-launch-gtm)** | Builds a 12-week Delhi NCR launch plan for a new makhana snack, including what to test before expanding on quick commerce. | Market research, consumer-test plan, unit economics, Excel model, PowerPoint and PDF |
-| **[Blinkit growth economics](https://github.com/Kayofficial101/blinkit-growth-economics)** | Uses Eternal's filings to check whether Blinkit's store growth is improving profitability and what a mature store could earn on its capital. | Quarterly analysis, store-return model, Python checks and Excel dashboard |
-| **[FMCG inventory control tower](https://github.com/Kayofficial101/fmcg-demand-inventory-control-tower)** | Turns demand and stock data into two planner lists: what to order now and what excess stock needs review. | Excel model, ABC-XYZ inventory policy, Python checks and SQL queues |
-| **[E-commerce sales performance](https://github.com/Kayofficial101/ecommerce-sales-analysis)** | Examines 10,800 orders to find revenue patterns, return problems and periods that need inventory or campaign follow-up. | Excel dashboard, Python reconciliation, SQL analysis and source data |
-| **[Coca-Cola India growth case](https://github.com/Kayofficial101/coca-cola-india-consumer-growth-case)** | Designs an outlet test for turning trial during a major Indian occasion into a measurable second purchase. | Public research, test design, PowerPoint deck and PDF |
-| **[Telecom churn analysis](https://github.com/Kayofficial101/customer-churn-analysis)** | Finds which customer groups show the highest churn and converts the analysis into a practical retention worklist. | Python analysis, SQL queue and revenue-at-risk view |
+| **[LaunchOps marketing automation](https://github.com/Kayofficial101/launchops-marketing-automation)** | Built a pre-launch system that checks campaign assets for tracking, approvals, dates, budgets and naming errors, then routes each issue to the right owner. | Python, OpenAI Responses API, HTML, CSV, GitHub Actions |
+| **[Makhana snack launch GTM](https://github.com/Kayofficial101/makhana-launch-gtm)** | Reworked an old college idea into a 12-week Delhi NCR launch plan with consumer tests, pack economics, channel gates and a clear scale or stop decision. | Market research, Excel, Python, PowerPoint |
+| **[Blinkit growth economics](https://github.com/Kayofficial101/blinkit-growth-economics)** | Used Eternal's filings to check whether Blinkit's store growth is translating into better profitability and what a mature store might earn on its capital. | Public filings, Excel, Python |
+| **[FMCG inventory control tower](https://github.com/Kayofficial101/fmcg-demand-inventory-control-tower)** | Built a daily planner view that shows which products need ordering, which are at stockout risk and which have excess inventory to review. | Excel, Python, SQL, ABC-XYZ analysis |
+| **[E-commerce sales performance](https://github.com/Kayofficial101/ecommerce-sales-analysis)** | Analyzed 10,800 orders to find revenue patterns, return problems and periods that need inventory or campaign follow-up. | Excel, Python, SQL |
+| **[Coca-Cola India growth case](https://github.com/Kayofficial101/coca-cola-india-consumer-growth-case)** | Designed an outlet experiment to test whether trial during a major Indian occasion can lead to a measurable second purchase. | Public research, experiment design, PowerPoint |
 
-## More work
+## More analysis projects
 
-- **[HR attrition analysis](https://github.com/Kayofficial101/hr-analytics-dashboard):** overtime, role and attrition patterns with a manager follow-up list.
-- **[SQL business queries](https://github.com/Kayofficial101/sql-business-queries):** eight MySQL patterns for revenue, cohorts, customer value and reporting checks.
+- **[Telecom churn analysis](https://github.com/Kayofficial101/customer-churn-analysis):** turns churn patterns into a ranked retention worklist.
+- **[HR attrition analysis](https://github.com/Kayofficial101/hr-analytics-dashboard):** narrows an overall attrition number into role and overtime questions for managers.
+- **[SQL business queries](https://github.com/Kayofficial101/sql-business-queries):** eight reusable MySQL analyses for revenue, cohorts, customer value and reporting checks.
 
-## Other products
+## Products and web work
 
 - **[Anshaya](https://anshaya.com):** a Vedic astrology product with chart, timing, relationship and numerology workflows.
 - **[Maths Mitre](https://mathsmitre.com):** the website and growth foundation for a one-to-one mathematics tutoring service.
-
-## Earlier web work
-
-- **[Edu-Hub for DU BMS](https://dubmshub.in):** a live product covering notes, papers, videos and revision paths.
-- **[DU BMS search audit](https://github.com/Kayofficial101/du-bms-seo-aeo-growth-audit):** a 42-page crawl, prioritized backlog, content brief and measurement plan for Edu-Hub.
-
-## Tools
-
-`Excel` `Power BI` `SQL` `Python` `Next.js` `Vercel` `Supabase` `Google Search Console` `Ahrefs` `HubSpot`
+- **[Edu-Hub for DU BMS](https://dubmshub.in):** a student resource site covering notes, papers, videos and revision paths.
+- **[Edu-Hub search audit](https://github.com/Kayofficial101/du-bms-seo-aeo-growth-audit):** a 42-page crawl, search backlog, content brief and measurement plan for the site.
