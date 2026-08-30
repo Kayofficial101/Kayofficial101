@@ -1,16 +1,14 @@
 # Keshav Kapoor
 
-I work across business analysis, growth, SEO, operations and strategy. I like work where the question is still messy, the data is imperfect, and the useful outcome is a decision rather than another dashboard.
+I work across business analysis, growth, SEO, operations and strategy. I enjoy figuring out messy problems, whether that means digging through data, auditing a product, building a model, or turning research into a clear plan.
 
 I am currently a Founder’s Office Associate at Capiens AI. Earlier, I worked in healthcare analytics at EY-GDS. I studied business management at the University of Delhi and software development at BITS Pilani.
 
-[LinkedIn](https://www.linkedin.com/in/keshav-kapoor-kk108/) · Delhi, India
+[LinkedIn](https://www.linkedin.com/in/keshav-kapoor-kk108/) · Delhi NCR, India
 
-## Start here
+## Selected work
 
-These are the six projects I would show first in an interview.
-
-| Project | Business question | What is there to inspect |
+| Project | Business question | Included |
 |---|---|---|
 | **[E-commerce sales performance](https://github.com/Kayofficial101/ecommerce-sales-analysis)** | Where is revenue growing, which categories and regions need attention, and what should management do next? | Formula-driven Excel workbook, Python analysis, SQL queries, 10,800-row synthetic dataset and QA checks |
 | **[DU BMS SEO and AI-search audit](https://github.com/Kayofficial101/du-bms-seo-aeo-growth-audit)** | What is stopping a live education product from earning more search visibility and becoming easier to cite in AI answers? | Live 42-page crawl, issue backlog, answer-engine map, content brief and measurement plan |
@@ -19,7 +17,7 @@ These are the six projects I would show first in an interview.
 | **[Telecom customer churn](https://github.com/Kayofficial101/customer-churn-analysis)** | Which customers are most at risk and how should a retention team prioritize action? | Reproducible Python and SQL analysis, 7,043-row dataset, risk segments and retention workflow |
 | **[Edu-Hub for DU BMS](https://dubmshub.in)** | How should scattered course material be organised so students can find the right resource quickly? | Live semester-wise product for notes, papers, videos and revision paths |
 
-## What I try to show in the work
+## How I work
 
 - I begin with the decision, then choose the analysis.
 - I keep assumptions, sources and limitations visible.
@@ -40,4 +38,4 @@ These are the six projects I would show first in an interview.
 
 `Excel` `Power BI` `SQL` `Python` `Next.js` `Vercel` `Supabase` `Google Search Console` `Ahrefs` `HubSpot`
 
-If you have five minutes, start with the [e-commerce analysis](https://github.com/Kayofficial101/ecommerce-sales-analysis) for breadth, then open the [SEO and AI-search audit](https://github.com/Kayofficial101/du-bms-seo-aeo-growth-audit) to see how I work on a live product.
+The [e-commerce analysis](https://github.com/Kayofficial101/ecommerce-sales-analysis) is the broadest example. The [SEO and AI-search audit](https://github.com/Kayofficial101/du-bms-seo-aeo-growth-audit) shows how I approach a live product.
