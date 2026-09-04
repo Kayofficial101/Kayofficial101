@@ -12,6 +12,14 @@ My projects sit across business analysis, growth, marketing operations, SEO and 
 
 [LinkedIn](https://www.linkedin.com/in/keshav-kapoor-kk108/) · Delhi NCR, India
 
+## Pro bono project: Edu-Hub
+
+I built and run [Edu-Hub](https://dubmshub.in) as a free resource site for DU BMS students. It brings notes, previous-year papers, subject pages and revision paths into one place.
+
+Between 7 August and 3 September 2026, Google Analytics showed 391 active users, 312 new users, 379 sessions from Google organic and 4.8K events.
+
+[Read the site audit](https://github.com/Kayofficial101/du-bms-seo-aeo-growth-audit)
+
 ## Skills and tools
 
 `Excel` `Power BI` `SQL` `Python` `Google Search Console` `Ahrefs` `HubSpot` `PowerPoint` `Next.js` `Vercel` `Supabase` `Canva` `Figma`
@@ -37,5 +45,4 @@ My projects sit across business analysis, growth, marketing operations, SEO and 
 
 - **[Anshaya](https://anshaya.com):** a Vedic astrology product with chart, timing, relationship and numerology workflows.
 - **[Maths Mitre](https://mathsmitre.com):** the website and growth foundation for a one-to-one mathematics tutoring service.
-- **[Edu-Hub for DU BMS](https://dubmshub.in):** a student resource site covering notes, papers, videos and revision paths.
-- **[Edu-Hub search audit](https://github.com/Kayofficial101/du-bms-seo-aeo-growth-audit):** a 42-page crawl, search backlog, content brief and measurement plan for the site.
+
