@@ -26,7 +26,7 @@ Between 7 August and 3 September 2026, Google Analytics showed 391 active users,
 
 ## Vibecoded Android apps using Claude
 
-I built these three personal Android apps with Claude as my coding partner. I started with problems from my own routine, asked Claude to research the Android constraints and propose a plan, then refined the requirements and tested the working builds. Each repository includes the source, tech stack and a reconstructed production prompt that turns the original conversational brief into a reusable specification.
+I built these three personal Android apps with Claude as my coding partner. I started with problems from my own routine, asked Claude to research the Android constraints and propose a plan, then refined the requirements and tested the working builds. Each showcase includes the downloadable APK, tech stack and a reconstructed production prompt that turns the original conversational brief into a reusable specification. The source code remains private.
 
 | App | What I built | Stack and build prompt |
 |---|---|---|
