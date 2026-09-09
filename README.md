@@ -24,6 +24,16 @@ Between 7 August and 3 September 2026, Google Analytics showed 391 active users,
 
 `Excel` `Power BI` `SQL` `Python` `Google Search Console` `Ahrefs` `HubSpot` `PowerPoint` `Next.js` `Vercel` `Supabase` `Canva` `Figma`
 
+## Vibecoded Android apps using Claude
+
+I built these three personal Android apps with Claude as my coding partner. I started with problems from my own routine, asked Claude to research the Android constraints and propose a plan, then refined the requirements and tested the working builds. Each repository includes the source, tech stack and a reconstructed production prompt that turns the original conversational brief into a reusable specification.
+
+| App | What I built | Stack and build prompt |
+|---|---|---|
+| **[Momentum](https://github.com/Kayofficial101/momentum-habit-tracker)** | An offline habit, task and notes app with selected-day routines, persistent reminders, streaks, stats, backups and a tap-to-complete home-screen widget. | Kotlin, Jetpack Compose, Material 3, local JSON, alarms and App Widgets · [Prompt](https://github.com/Kayofficial101/momentum-habit-tracker/blob/main/PROMPT.md) |
+| **[Kharcha](https://github.com/Kayofficial101/kharcha-upi-expense-tracker)** | A private UPI expense tracker that parses bank messages, reconciles balances, pairs self-transfers, removes duplicates and learns reviewed merchant categories. | Kotlin, Jetpack Compose, Coroutines, local JSON, SMS and notification parsing · [Prompt](https://github.com/Kayofficial101/kharcha-upi-expense-tracker/blob/main/PROMPT.md) |
+| **[Cake](https://github.com/Kayofficial101/cake-birthday-reminder)** | An offline birthday organiser with adjustable reminder rules, full-screen alarms, month-wise browsing, age calculations and local backup. | Kotlin, Jetpack Compose, Coroutines, local JSON, AlarmManager and notifications · [Prompt](https://github.com/Kayofficial101/cake-birthday-reminder/blob/main/PROMPT.md) |
+
 ## Projects Index
 
 | Project | About the project | Tools used |
